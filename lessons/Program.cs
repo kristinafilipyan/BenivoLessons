@@ -11,6 +11,7 @@ namespace lessons
 
             PayPal.Pay(100);
             PayPal.Pay(50);
+            PayPal.Pay(200);
         }
     }
 }
