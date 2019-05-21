@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lessons", "lessons\lessons.csproj", "{8B165118-E60F-4E64-8C19-803467E348DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lessons.Payments", "lessons.Payments\lessons.Payments.csproj", "{2DE1B55C-B087-45B1-B906-76942CB3C08B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B165118-E60F-4E64-8C19-803467E348DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B165118-E60F-4E64-8C19-803467E348DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B165118-E60F-4E64-8C19-803467E348DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B165118-E60F-4E64-8C19-803467E348DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DE1B55C-B087-45B1-B906-76942CB3C08B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DE1B55C-B087-45B1-B906-76942CB3C08B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DE1B55C-B087-45B1-B906-76942CB3C08B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DE1B55C-B087-45B1-B906-76942CB3C08B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A71229BB-A824-455D-BC1C-BA562CF674EE}
+	EndGlobalSection
+EndGlobal
