@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28307.645
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lessons", "lessons\lessons.csproj", "{8B165118-E60F-4E64-8C19-803467E348DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lessons.Payments", "lessons.Payments\lessons.Payments.csproj", "{2DE1B55C-B087-45B1-B906-76942CB3C08B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lessons.Payment", "lessons.Payment\lessons.Payment.csproj", "{9C21A0A1-8570-4AE6-B43D-58B74C9F5CC9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{8B165118-E60F-4E64-8C19-803467E348DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B165118-E60F-4E64-8C19-803467E348DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B165118-E60F-4E64-8C19-803467E348DD}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2DE1B55C-B087-45B1-B906-76942CB3C08B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2DE1B55C-B087-45B1-B906-76942CB3C08B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2DE1B55C-B087-45B1-B906-76942CB3C08B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2DE1B55C-B087-45B1-B906-76942CB3C08B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C21A0A1-8570-4AE6-B43D-58B74C9F5CC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C21A0A1-8570-4AE6-B43D-58B74C9F5CC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C21A0A1-8570-4AE6-B43D-58B74C9F5CC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C21A0A1-8570-4AE6-B43D-58B74C9F5CC9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
